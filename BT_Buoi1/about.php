@@ -143,6 +143,13 @@ $projects = [
         'link' => 'https://github.com/Hungdz3/EduAi',
         'tech' => ['node.js', 'supabase', 'Bootstrap'],
     ],
+
+    [
+        'name' => 'Hệ Thống quản lý khóa học và đăng ký học phần',
+        'desc' => 'Hệ thống hỗ trợ giúp đỡ học sinh và giáo viên trong việc ra soát đăng kí học phần.',
+        'link' => 'https://github.com/Hungdz3/BTL-L-p_tr-nh_wed',
+        'tech' => ['php', 'MySQL', 'Bootstrap'],
+    ],
 ];
 $year = date('Y');
 ?>
